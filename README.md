@@ -5,7 +5,7 @@
 - <b>Data Analytics (Python — pandas, matplotlib, KMeans, geocoders)</b>
   - [Singapore housing prices](https://github.com/Joshua-Leow)
 - <b>Full Stack Web App (Python — Flask)</b>
-  - [Hotel bookings](https://github.com/Joshua-Leow)
+  - [Hotel booking website](https://github.com/Joshua-Leow)
 
 <!--
 <h2> 🤳 Connect with me:</h2>
