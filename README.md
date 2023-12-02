@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Analytics (Python — pandas, matplotlib, KMeans, geocoders)</b>
-  - [Singapore flat prices](https://github.com/Joshua-Leow)
+  - [Singapore housing prices](https://github.com/Joshua-Leow)
 - <b>Full Stack Web App (Python — Flask)</b>
   - [Hotel bookings](https://github.com/Joshua-Leow)
 
