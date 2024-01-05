@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joshua! <br/><a href="https://github.com/Joshua-Leow">Programmer</a>, Professional Software Tester</h1>
+<h1>Hi, I'm Joshua! <br/><a href="https://github.com/Joshua-Leow">Programmer</a>, Professional Software Tester, Tech Enthusiasts</h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
