@@ -5,7 +5,7 @@
 - <b>Data Analytics (Python — pandas, matplotlib, KMeans, geocoders)</b>
   - [Singapore housing prices](https://github.com/Joshua-Leow/HousingPriceAnalysis)
 - <b>Full Stack Web App (Python — Flask)</b>
-  - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) - [GitHub repo link](https://github.com/Joshua-Leow/joshualeowhotel)
+  - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) - [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
 - <b>Automation Testing (Serenity — Cucumber)</b>
   - [Hotel Serenity Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
 
