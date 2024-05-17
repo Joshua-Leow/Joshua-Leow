@@ -6,8 +6,9 @@
   - [Singapore housing prices](https://github.com/Joshua-Leow/HousingPriceAnalysis)
 - <b>Full Stack Web App (Python — Flask)</b>
   - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) - [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
-- <b>Automation Testing (Serenity — Cucumber)</b>
+- <b>Automation Testing</b>
   - [Hotel Serenity Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
+  - [Hotel RobotFramework Testing](https://github.com/Joshua-Leow/HotelRobotFrameworkTesting)
 
 <!--
 <h2> 🤳 Connect with me:</h2>
