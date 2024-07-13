@@ -15,7 +15,8 @@
 - <b>Automation Testing</b>
   - [Hotel Website Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
     - Serenity - Cucumber framework
-  - [Hotel RobotFramework Testing](https://github.com/Joshua-Leow/HotelRobotFrameworkTesting)
+  - [Hotel Website Testing 2](https://github.com/Joshua-Leow/HotelRobotFrameworkTesting)
+    - RobotFramework
 
 <!--
 <h2> 🤳 Connect with me:</h2>
