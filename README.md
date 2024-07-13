@@ -2,10 +2,15 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Analytics (Python — pandas, matplotlib, KMeans, geocoders)</b>
+- <b>Data Analytics (Python — pandas, matplotlib, sqlite3, sqlalchemy)</b>
   - [Singapore housing prices](https://github.com/Joshua-Leow/HousingPriceAnalysis)
+    - contextily
+    - geopandas
+    - sklearn — KMeans, StandardScaler, haversine_distances
+    - geocoders — GoogleV3
   - [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis/blob/main/KoreanDramasAnalysis.ipynb)
-- <b>Full Stack Web App (Python — Flask)</b>
+    - sklearn — CountVectorizer & LatentDirichletAllocation
+- <b>Full Stack Web (Python — Flask)</b>
   - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) - [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
 - <b>Automation Testing</b>
   - [Hotel Serenity Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
