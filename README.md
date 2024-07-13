@@ -13,7 +13,8 @@
 - <b>Full Stack Web (Python — Flask)</b>
   - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) - [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
 - <b>Automation Testing</b>
-  - [Hotel Serenity Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
+  - [Hotel Website Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
+    - Serenity - Cucumber framework
   - [Hotel RobotFramework Testing](https://github.com/Joshua-Leow/HotelRobotFrameworkTesting)
 
 <!--
