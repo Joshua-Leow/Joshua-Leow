@@ -16,10 +16,10 @@
     - BeautifulSoup
     - yfinance
 - <b>Full Stack Web (Python — Flask)</b>
-  - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) - [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
+  - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) — [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
 - <b>Automation Testing</b>
   - [Hotel Website Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
-    - Serenity - Cucumber framework
+    - Serenity — Cucumber Framework
   - [Hotel Website Testing 2](https://github.com/Joshua-Leow/HotelRobotFrameworkTesting)
     - RobotFramework
 
