@@ -4,6 +4,7 @@
 
 - <b>Data Analytics (Python — pandas, matplotlib, KMeans, geocoders)</b>
   - [Singapore housing prices](https://github.com/Joshua-Leow/HousingPriceAnalysis)
+  - [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis/blob/main/KoreanDramasAnalysis.ipynb)
 - <b>Full Stack Web App (Python — Flask)</b>
   - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) - [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
 - <b>Automation Testing</b>
