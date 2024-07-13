@@ -11,7 +11,7 @@
   - [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis/blob/main/KoreanDramasAnalysis.ipynb)
     - BeautifulSoup
     - sklearn — CountVectorizer & LatentDirichletAllocation
-  - [IPO Stocks performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
+  - [IPO Stocks performance](https://github.com/Joshua-Leow/IPOStocksAnalysis/blob/main/IPO_stocks_analysis.ipynb)
     - selenium
     - BeautifulSoup
     - yfinance
