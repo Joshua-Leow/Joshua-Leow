@@ -15,8 +15,9 @@
     - selenium
     - BeautifulSoup
     - yfinance
-- <b>Full Stack Web (Python — Flask)</b>
-  - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) — [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
+- <b>Full Stack Web</b>
+  - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) , [Repository](https://github.com/Joshua-Leow/joshualeowhotel)  (Python — Flask)
+  - [Next.js dashboard](https://github.com/Joshua-Leow/nextjs-dashboard)  (JavaScript — Nextjs, Typescript)
 - <b>Automation Testing</b>
   - [Hotel Website Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
     - Serenity — Cucumber Framework
