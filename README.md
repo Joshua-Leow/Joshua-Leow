@@ -8,10 +8,10 @@
     - geopandas
     - sklearn — KMeans, StandardScaler, haversine_distances
     - geocoders — GoogleV3
-  - [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis/blob/main/KoreanDramasAnalysis.ipynb)
+  - [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis)
     - BeautifulSoup
     - sklearn — CountVectorizer, LatentDirichletAllocation
-  - [IPO Stocks performance](https://github.com/Joshua-Leow/IPOStocksAnalysis/blob/main/IPO_stocks_analysis.ipynb)
+  - [IPO Stocks performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
     - selenium
     - BeautifulSoup
     - yfinance
