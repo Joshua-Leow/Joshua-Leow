@@ -1,42 +1,83 @@
-<h1>Hi, I'm Joshua! <br/><a href="https://github.com/Joshua-Leow">Programmer</a>, Automation Software Tester, Tech Enthusiasts</h1>
-
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Analytics (Python — pandas, numpy, matplotlib, sqlite3, sqlalchemy)</b>
-  - [Singapore housing prices](https://github.com/Joshua-Leow/HousingPriceAnalysis)
-    - contextily
-    - geopandas
-    - sklearn — KMeans, StandardScaler, haversine_distances
-    - geocoders — GoogleV3
-  - [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis)
-    - BeautifulSoup
-    - sklearn — CountVectorizer, LatentDirichletAllocation
-  - [IPO Stocks performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
-    - selenium
-    - BeautifulSoup
-    - yfinance
-- <b>Full Stack Web</b>
-  - [Hotel booking website](https://hotel-booking-website-1.onrender.com/) , [Repository](https://github.com/Joshua-Leow/joshualeowhotel)  (Python — Flask)
-  - [Next.js dashboard](https://github.com/Joshua-Leow/nextjs-dashboard)  (JavaScript — Nextjs, Typescript)
-- <b>Automation Testing</b>
-  - [Hotel Website Testing](https://github.com/Joshua-Leow/HotelSerenityTesting)
-    - Serenity — Cucumber Framework
-  - [Hotel Website Testing 2](https://github.com/Joshua-Leow/HotelRobotFrameworkTesting)
-    - RobotFramework
-
+# Hi there, I'm Joshua! 👋
 <!--
-<h2> 🤳 Connect with me:</h2>
+<p align="center">
+  <img src="https://your-image-url-here.com" alt="Banner Image" width="100%">
+</p>
+!-->
+I'm a passionate **Programmer**, **Automation Software Tester**, and **Tech Enthusiast** with a knack for data analytics and full-stack development.
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🚀 Skills and Technologies
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=Python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat-square&logo=SQLAlchemy&logoColor=white)
+![Serenity](https://img.shields.io/badge/-Serenity-16A085?style=flat-square&logo=Serenity&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/-Robot%20Framework-000000?style=flat-square&logo=Robot%20Framework&logoColor=white)
+
+## 👨‍💻 Featured Projects
+
+### Data Analytics
+1. [Singapore Housing Prices Analysis](https://github.com/Joshua-Leow/HousingPriceAnalysis)
+   - Advanced geospatial analysis using `contextily`, `geopandas`, and `sklearn`
+   - Implemented machine learning techniques: `KMeans clustering`, `StandardScaler`
+   - Utilized Google's Geocoding API for precise location data
+
+2. [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis)
+   - Web scraping with `BeautifulSoup`
+   - Text analysis using `sklearn`'s `CountVectorizer` and `LatentDirichletAllocation`
+
+3. [IPO Stocks Performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
+   - Automated web scraping with `selenium` and `BeautifulSoup`
+   - Financial data analysis using `yfinance`
+
+### Full Stack Web Development
+1. [Hotel Booking Website](https://hotel-booking-website-1.onrender.com/) | [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
+   - Built with Python Flask
+   - Features user authentication, booking management, and admin panel
+
+2. [Next.js Dashboard](https://github.com/Joshua-Leow/nextjs-dashboard)
+   - Modern web app using Next.js and TypeScript
+   - Responsive design with server-side rendering
+
+### Automation Testing
+1. [Hotel Website Testing (Serenity)](https://github.com/Joshua-Leow/HotelSerenityTesting)
+   - Implemented Behavior-Driven Development (BDD) with Cucumber
+   - Comprehensive test suite for hotel booking functionality
+
+2. [Hotel Website Testing (Robot Framework)](https://github.com/Joshua-Leow/HotelRobotFrameworkTesting)
+   - Automated testing using Robot Framework
+   - Efficient and maintainable test scripts
+<!--
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joshua-Leow&show_icons=true&theme=radical" alt="Joshua's GitHub Stats" />
+</p>
 -->
+## 🤝 Let's Connect!
+
+- LinkedIn: [Joshua Leow](https://www.linkedin.com/in/joshualeow)
+<!--- Twitter: [@YourTwitterHandle](https://twitter.com/your-handle)
+- Portfolio: [Your Portfolio Website](https://your-portfolio.com)-->
+
+Feel free to explore my repositories and don't hesitate to reach out for collaborations or just a tech chat!
+
+<!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
+<!--[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]-->
+<!--[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]-->
+<!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
+
+[twitter]: https://twitter.com/joshualeow
+[youtube]: https://www.youtube.com/c/joshualeow
+[instagram]: https://www.instagram.com/joshualeow/
+[linkedin]: https://www.linkedin.com/in/joshualeow
+
 
 <!--
 **Joshua-Leow/Joshua-Leow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
