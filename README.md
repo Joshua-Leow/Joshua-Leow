@@ -22,7 +22,7 @@ I'm a passionate **Programmer**, **Automation Software Tester**, and **Tech Enth
 
 ## 👨‍💻 Featured Projects
 
-### Data Analytics
+### Data Science
 1. [Singapore Housing Prices Analysis](https://github.com/Joshua-Leow/HousingPriceAnalysis)
    - Advanced geospatial analysis using `contextily`, `geopandas`, and `sklearn`
    - Implemented machine learning techniques: `KMeans clustering`, `StandardScaler`
