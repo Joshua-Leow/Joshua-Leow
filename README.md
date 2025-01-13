@@ -4,7 +4,14 @@
   <img src="https://your-image-url-here.com" alt="Banner Image" width="100%">
 </p>
 !-->
-I'm a passionate **Programmer**, **Automation Software Tester**, and **Tech Enthusiast** with a knack for data analytics and full-stack development.
+I'm an **Automation Engineer** and **Tech Enthusiast**.<br>
+I just enjoy building my own side projects, and I'm mostly interested in working with data!<br>
+Feel free to explore my page and lets connect to work on projects together!<br>
+<h2>Topics of interest: 🤓</h2>
+
+  * Crypto 💰
+  * Financial Markets 📈
+  * Fitness 🏋️‍♂️
 
 ## 🚀 Skills and Technologies
 
