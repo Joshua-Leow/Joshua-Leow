@@ -29,6 +29,12 @@ Feel free to explore my page and lets connect to work on projects together!<br>
 
 ## 👨‍💻 Featured Projects
 
+### Web Scrapping
+1. [Cryptocurrency Listing Scraper](https://github.com/Joshua-Leow/scrape_CMC)
+   - Utilized Selenium for Web Scrapping
+   - Utilized Google Generative AI's API
+   - Utilized Google Sheet's API
+
 ### Data Science
 1. [Singapore Housing Prices Analysis](https://github.com/Joshua-Leow/HousingPriceAnalysis)
    - Advanced geospatial analysis using `contextily`, `geopandas`, and `sklearn`
