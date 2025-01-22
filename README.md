@@ -31,7 +31,7 @@ Feel free to explore my page and lets connect to work on projects together!<br>
 
 ### Web Scrapping
 1. [Cryptocurrency Listing Scraper](https://github.com/Joshua-Leow/scrape_CMC)
-   - Utilized Selenium for Web Scrapping
+   - Utilized `selenium` for Web Scrapping
    - Utilized Google Generative AI's API
    - Utilized Google Sheet's API
 
@@ -48,6 +48,7 @@ Feel free to explore my page and lets connect to work on projects together!<br>
 3. [IPO Stocks Performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
    - Automated web scraping with `selenium` and `BeautifulSoup`
    - Financial data analysis using `yfinance`
+   - Built a backtesting library
 
 ### Full Stack Web Development
 1. [Hotel Booking Website](https://hotel-booking-website-1.onrender.com/) | [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
