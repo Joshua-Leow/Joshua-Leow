@@ -31,7 +31,7 @@ Feel free to explore my page and lets connect to work on projects together!<br>
 
 ### Web Scrapping
 1. [Cryptocurrency Listing Scraper](https://github.com/Joshua-Leow/scrape_CMC)
-   - Utilized `selenium` for Web Scrapping
+   - Utilized `selenium` and `pynput` for Web Scrapping
    - Utilized Google Generative AI's API
    - Utilized Google Sheet's API
 
