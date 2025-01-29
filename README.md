@@ -36,19 +36,18 @@ Feel free to explore my page and lets connect to work on projects together!<br>
    - Utilized Google Sheet's API
 
 ### Data Science
-1. [Singapore Housing Prices Analysis](https://github.com/Joshua-Leow/HousingPriceAnalysis)
+1. [Gold Prediction Analysis](https://github.com/Joshua-Leow/gold_prediction)
+   - Predict future gold price
+   - Simulate trades and perform backtesting to view results
+
+2. [IPO Stocks Performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
+   - Automated web scraping with `selenium` and `BeautifulSoup`
+   - Financial data analysis using `yfinance`
+
+3. [Singapore Housing Prices Analysis](https://github.com/Joshua-Leow/HousingPriceAnalysis)
    - Advanced geospatial analysis using `contextily`, `geopandas`, and `sklearn`
    - Implemented machine learning techniques: `KMeans clustering`, `StandardScaler`
    - Utilized Google's Geocoding API for precise location data
-
-2. [Korean Dramas Analysis](https://github.com/Joshua-Leow/KoreanDramasAnalysis)
-   - Web scraping with `BeautifulSoup`
-   - Text analysis using `sklearn`'s `CountVectorizer` and `LatentDirichletAllocation`
-
-3. [IPO Stocks Performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
-   - Automated web scraping with `selenium` and `BeautifulSoup`
-   - Financial data analysis using `yfinance`
-   - Built a backtesting library
 
 ### Full Stack Web Development
 1. [Hotel Booking Website](https://hotel-booking-website-1.onrender.com/) | [Repository](https://github.com/Joshua-Leow/joshualeowhotel)
