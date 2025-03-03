@@ -29,22 +29,17 @@ Feel free to explore my page and lets connect to work on projects together!<br>
 
 ## 👨‍💻 Featured Projects
 
-### Web Scrapping
-1. [Cryptocurrency Listing Scraper](https://github.com/Joshua-Leow/scrape_CMC)
-   - Utilized `selenium` and `pynput` for Web Scrapping
-   - Utilized Google Generative AI's API
-   - Utilized Google Sheet's API
-
-### Data Science
+### Machine Learning
 1. [Gold Prediction Analysis](https://github.com/Joshua-Leow/gold_prediction)
    - Predict future gold price
    - Simulate trades and perform backtesting to view results
 
-2. [IPO Stocks Performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
+### Data Science
+1. [IPO Stocks Performance](https://github.com/Joshua-Leow/IPOStocksAnalysis)
    - Automated web scraping with `selenium` and `BeautifulSoup`
    - Financial data analysis using `yfinance`
 
-3. [Singapore Housing Prices Analysis](https://github.com/Joshua-Leow/HousingPriceAnalysis)
+2. [Singapore Housing Prices Analysis](https://github.com/Joshua-Leow/HousingPriceAnalysis)
    - Advanced geospatial analysis using `contextily`, `geopandas`, and `sklearn`
    - Implemented machine learning techniques: `KMeans clustering`, `StandardScaler`
    - Utilized Google's Geocoding API for precise location data
